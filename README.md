@@ -26,5 +26,5 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
 
 <!-- <a href="#descricaoprojeto">Descrição Projeto</a> | <a href="#tecnologia">Tecnologias</a> -->
 
-## Status do Projeto
+Status do Projeto
 <h4>Em construção</h4>
