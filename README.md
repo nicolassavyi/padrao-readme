@@ -17,13 +17,12 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)  [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)  [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) 
 
 <br>
-<!-- OPCAO1 -->
-<!-- ## Tabela de Conteúdo
+ ## Tabela de Conteúdo
 
  <ul>
     <li><a href="#descricaoprojeto">Descrição Projeto</a></li>
     <li><a href="#tecnologia">Tecnologias</a></li>
-</ul> -->
+</ul>
 
 <!-- <a href="#descricaoprojeto">Descrição Projeto</a> | <a href="#tecnologia">Tecnologias</a> -->
 
